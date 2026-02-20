@@ -1,3 +1,5 @@
+# Find Pair with Given Sum: Find a pair of elements that adds up to a target sum.
+
 arr = [7, 2, 3, 4, 5, 6, 1]
 target = 7
 for i in range(len(arr)):

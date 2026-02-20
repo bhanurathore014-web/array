@@ -1,3 +1,5 @@
+# Check if Two Arrays Are Equal: if two arrays contain the same elements
+
 arr1 = [1, 3, 9, 7, 4]
 arr2 = [2, 8, 3, 6, 7]
 if arr1 == arr2:

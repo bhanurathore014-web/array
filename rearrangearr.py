@@ -1,3 +1,5 @@
+# Rearrange Array Alternately: Rearrange an array such that elements alternate between the largest and smallest.
+
 arr = [12, 15, 5, 6, 2, 25]
 arr.sort()
 result = [0]

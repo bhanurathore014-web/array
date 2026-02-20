@@ -1,3 +1,5 @@
+# Count the Frequency of Elements in an Array
+
 arr = [1,1,1,2,3,4,2,2,1,2,3,4,5,6,7,8,9,10]
 dict = {}
 for val in arr:

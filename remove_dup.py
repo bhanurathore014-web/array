@@ -1,3 +1,5 @@
+#Remove Duplicates from Array: Remove duplicates from the array while maintaining order.
+
 arr = [1, 2, 2, 3, 4, 3, 5]
 unique_arr = []
 for val in arr:

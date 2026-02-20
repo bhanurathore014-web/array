@@ -1,1 +1,0 @@
- # current_length = 2

@@ -1,3 +1,4 @@
+# Find Union of Two Arrays
 arr1 = [1, 3, 9, 7, 4]
 arr2 = [2, 8, 3, 6, 7]
 

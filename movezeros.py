@@ -1,3 +1,5 @@
+# Move Zeroes to End: Move all zeroes in an array to the end while maintaining the order of non-zero elements.
+
 arr = [5, 0, 3, 0, 1, 0, 4, 7, 9, 1, 4]
 non_zero= 0
 for i in range(len(arr)):

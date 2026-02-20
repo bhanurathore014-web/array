@@ -1,3 +1,5 @@
+# Find the Leader Elements: An element is a leader if it is greater than all elements to its right.
+
 arr = [16, 13, 14, 3, 5, 12, 7, 10, 9]
 leaders = []
 max_from_right = arr[-1]

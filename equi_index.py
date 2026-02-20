@@ -1,3 +1,4 @@
+# Find Equilibrium Index: Find an index such that sum of elements on left = sum on right.
 arr = [1, 2, 3, 4]
 n = len(arr)
 result = [1] * n

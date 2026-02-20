@@ -1,3 +1,5 @@
+# Maximum Sum Subarray (Kadane's Algorithm)
+
 arr = [12, 15, 5, 6, 2, 25]
 max_sum = 0
 current_sum = 0
